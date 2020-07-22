@@ -1,1 +1,3 @@
-# java_perpus
+# Perpus
+
+Aplikasi perpusatakaan dengan java
